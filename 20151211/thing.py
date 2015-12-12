@@ -1,11 +1,4 @@
 
-
-
-
-
-
-
-
 def incrementDigitRecursive(word, digit):
 	if word[digit] == 'z':
 		word[digit] = 'a'
@@ -51,7 +44,7 @@ def has2DisjointPairs(word):
 			pairCount += 1
 			n += 1
 		n += 1
-		
+
 	return (pairCount >= 2)
 
 
