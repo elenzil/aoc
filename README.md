@@ -1,11 +1,4 @@
 # aoc
 Advent Of Code - http://adventofcode.com
 
-blah blah
-blahb alkjhdl
-djdjd
-jd
-dj
-djd
-
-dj
+I made a change - Becca 1/28/16
